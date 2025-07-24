@@ -1,3 +1,6 @@
 [submodule "ref/Deepnest"]
 	path = ref/Deepnest
 	url = https://github.com/Jack000/Deepnest.git
+[submodule "ref/no_fit_polygon"]
+	path = ref/no_fit_polygon
+	url = https://github.com/liangxuCHEN/no_fit_polygon.git
