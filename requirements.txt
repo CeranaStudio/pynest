@@ -1,0 +1,6 @@
+numpy
+pyclipper
+matplotlib
+ezdxf>=1.0.0
+shapely
+pytest
